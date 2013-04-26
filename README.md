@@ -1,6 +1,3 @@
-KlickReform-WebLab
-==================
+![KlickReform WebLab Logo](http://klickreform.de/blog/wp-content/uploads/2013/04/weblab_logo_medium.png "KlickReform Weblab - Visit our blog: www.klickreform.de/blog")
 
-Repository for our KlickReform WebLab Series which can be found on our Blog: http://www.klickreform.de/blog
-
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+Welcome to the KlickReform WebLab. This Repository is used for our KlickReform WebLab Series which can be found on our Blog: http://www.klickreform.de/blog.
